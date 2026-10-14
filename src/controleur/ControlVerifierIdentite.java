@@ -14,4 +14,5 @@ public class ControlVerifierIdentite {
         Gaulois gaulois = village.trouverHabitant(nomVendeur);
         return gaulois != null;
     }
+		
 }
